@@ -1,2 +1,2 @@
 # mhfa_drupal
-Drupal Assessment
+This zip file contains the drupal assessment for MHFA Commerce application. A module "membership_Details" was created which holds the table about the membership product for that userid and its current timestamp and expired timestamp. Further more, a method "commerce_checkout_update_user" was created (in commerce module) which will update the role to instructor once the product is checked out and also append the membershp_details table.
